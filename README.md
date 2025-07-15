@@ -24,14 +24,26 @@ Dataset contains 200 customer records with the following features:
 | 5 | Female | 31 | 17 | 40 |
 | ... | ... | ... | ... | ... |
 
+*(Source: Mall Customer Segmentation Data — widely used for clustering practice)*
 
 ---
 
 ## ⚙️ **Method**
 - Data exploration and cleaning
-- Applied **K-Means clustering** to find optimal customer segments
-- Used the Elbow Method to choose the best number of clusters
-- Visualized clusters with scatter plots
+- Applied **K-Means clustering** to segment customers
+- Used the **Elbow Method** to find the optimal number of clusters
+- Visualized clusters using scatter plots to understand customer groups
+
+---
+
+## 📈 **Results**
+- Identified **5 distinct customer segments**, including:
+  - High-income, high-spending customers
+  - Low-income, low-spending customers
+  - Moderate-income customers with varying spending habits
+- Clusters help the business understand and target each group differently:
+  - Reward loyal high spenders
+  - Create offers for low-spending customers to increase engagement
 
 ---
 
