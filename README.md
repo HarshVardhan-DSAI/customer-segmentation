@@ -24,7 +24,6 @@ Dataset contains 200 customer records with the following features:
 | 5 | Female | 31 | 17 | 40 |
 | ... | ... | ... | ... | ... |
 
-*(Source: Mall Customer Segmentation Data — widely used for clustering practice)*
 
 ---
 
