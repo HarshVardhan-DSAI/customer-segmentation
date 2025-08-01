@@ -1,10 +1,10 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+#  Customer Segmentation using K-Means Clustering
 
 Unsupervised machine learning project to segment customers based on their **annual income** and **spending score**, helping businesses better target marketing strategies.
 
 ---
 
-## 📌 **Project Goal**
+##  **Project Goal**
 To identify distinct groups of customers who behave similarly, so businesses can:
 - Create targeted marketing campaigns
 - Personalize offers
@@ -12,7 +12,7 @@ To identify distinct groups of customers who behave similarly, so businesses can
 
 ---
 
-## 📊 **Dataset**
+##  **Dataset**
 Dataset contains 200 customer records with the following features:
 
 | CustomerID | Gender | Age | Annual Income (k$) | Spending Score (1–100) |
@@ -28,7 +28,7 @@ Dataset contains 200 customer records with the following features:
 
 ---
 
-## ⚙️ **Method**
+##  **Method**
 - Data exploration and cleaning
 - Applied **K-Means clustering** to segment customers
 - Used the **Elbow Method** to find the optimal number of clusters
@@ -36,7 +36,7 @@ Dataset contains 200 customer records with the following features:
 
 ---
 
-## 📈 **Results**
+##  **Results**
 - Identified **5 distinct customer segments**, including:
   - High-income, high-spending customers
   - Low-income, low-spending customers
