@@ -47,7 +47,7 @@ Dataset contains 200 customer records with the following features:
 
 ---
 
-## 🧪 **How to Run**
+##  **How to Run**
 1. Clone the repository:
 ```bash
 git clone https://github.com/HarshVardhan-DSAI/customer-segmentation.git
